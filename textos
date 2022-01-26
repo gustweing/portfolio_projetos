@@ -1,0 +1,74 @@
+1 - Boas vindas:
+  Olá! Seja bem-vindo(a) ao meu portfólio de projeto de Ciência de Dados.
+  Nessa página, eu demonstro minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados, através de projetos
+  com dados públicos.
+  Você encontrará também minhas experiências profissionais, habilidades, ferramentas e conceitos envolvendo a Ciência de Dados.
+  Sinta-se à vontade para entrar em contato através dos links no final da página.
+
+
+2 - Sobre mim:
+  Meu nome é Gustavo Weingaertner Dias, sou estudante de Ciência da Computação pela faculdade da UNIPAMPA/RS. Trabalho como Professor na área da Indústria 4.0 para jovens e
+  adolescentes na cidade de Esteio/RS e também atuo em um trabalho voluntário como Assessor de Dados para um cursinho popular de São Paulo/SP.
+  Atualmente trabalho ensinando conceitos básicos das tecnologias utilizadas na Indústria 4.0 para jovens e adolescentes de baixa renda, incentivando-os a
+  estudar tais tecnologias e buscando aplicá-las em pequenos projetos. No trabalho como Assessor de Dados, atuo realizando coleta, trabalhando na visualização
+  e análise de dados afim de encontrar insights ativáveis de negócio. Em meus horários de estudo, sou membro da Comunidade DS onde realizo projetos pessoais
+  sobre Ciência de Dados, buscando adquirir conhecimento e experiência em solução de negócios e domínio sobre as ferramentas de análise de dados.
+  Estou buscando uma oportunidade de trabalhar profissionalmente como cientista de dados para melhorar a tomada de decisão de empresas através da construção
+  de soluções utilizando dados.
+
+3 - Minhas habilidades:
+    3.1 - Linguagens de programação e banco de dados:
+            - Python com foco em análise de dados;
+            - Web scraping com Python;
+            - SQL para extração de dados;
+            - Banco de Dados SQLITE;
+
+    3.2 - Estatística e Machine Learning:
+            - Estatística descritiva (Localização, dispersão, assimetria, kurtosis, densidade);
+            - Técnicas de balanceamento dos dados, seleção de atributos e redução de dimensionalidade;
+
+    3.3 - Visualização de dados:
+            - Matplotlib, seaborn e plotly;
+            - Power BI;
+
+    3.4 - Engenharia de Software:
+            - GitHub, Virtual Environment, Docker e Kubernetes;
+            - Streamlit, Flask, Python API
+            - Cloud Heroku;
+
+    3.5 - Soft Skills:
+            - Comunicação;
+            - Pensamento analítico;
+            - Gestão do tempo;
+            - Capacidade de trabalhar sob pressão;
+            - Trabalho em equipe;
+
+4 - Experiências:
+    - 1 projeto completo de Ciência de dados
+      Construção de soluções de dados para problemas de negócio, próximo dos desafios reais das empresas, utilizando dados públicos de competição de Ciência de
+      Dados, onde foi abordado o problema desde a concepção do desafio de negócio até a publicação do algoritmo treinado em produção, utilizando ferramentas de
+      Cloud Computing.
+
+    - 1 ano e 8 meses como orçamentista técnico
+      Estudo e análise técnica de orçamentos visando a migração do cliente para o Mercado Livre de Energia. Contato direto com o cliente desde a prospecção do
+      negócio até a finalização da etapa de compras.
+
+5 - Projetos em ciência de dados:
+    - Recomendação de venda e compra de imóveis buscando maximizar o lucro.
+        Identificação de imóveis abaixo do preço médio com alto potencial de revenda e definindo o valor ideal da venda. Foi utilizado uma análise exploratória
+        dos dados.
+        O resultado dessa solução, caso implantada, geraria um lucro de U$ 2.016.458.904,40.
+
+    - Ferramentas utilizadas:
+        - GitHub;
+        - Python, pandas, numpy, matplotlib, seaborn, plotly;
+        - Mapas interativos utilizando plotly e Folium;
+        - Jupyter notebook e VS CODE;
+        - Streamlit e Heroku Cloud;
+
+
+6 - Contato:
+    - E-mail: (EMAIL)
+    - Linkedin: (LINK)
+
+    Para qualquer sugestão ou dúvidas, por favor entre em contato que ficarei feliz em respondê-los!
